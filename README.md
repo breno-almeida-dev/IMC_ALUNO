@@ -38,8 +38,8 @@ Para rodar o projeto, você precisará ter o seguinte software instalado:
 🛠️ Construído com
 Ferramentas e bibliotecas utilizadas no projeto:
 
-Java SE - Linguagem de programação
-Eclipse IDE - Ambiente de desenvolvimento
+- Java SE - Linguagem de programação
+- Eclipse IDE - Ambiente de desenvolvimento
 
 
 
@@ -49,4 +49,4 @@ Eclipse IDE - Ambiente de desenvolvimento
 
 
 ✒️ Autores
-Breno Gustavo Rocha de Almeida - Trabalho inicial - Sistema de Gestão de Alunos e Funções Utilitárias.
+- Breno Gustavo Rocha de Almeida - Trabalho inicial - Sistema de Gestão de Alunos e Funções Utilitárias.
